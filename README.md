@@ -10,7 +10,7 @@ The emitters used to create the effects above can be found in [example_emitters.
 
 ## Installation
 
-Preferred install is via DragonRuby builtin [download_stb_rb](https://docs.dragonruby.org/#-----download_stb_rb(_raw)-)
+Preferred install is via DragonRuby builtin [download_stb_rb](https://docs.dragonruby.org/#/api/runtime?id=download_stb_rb_raw)
 
 First, download the lib using the above method, in the DragonRuby Console:
 
